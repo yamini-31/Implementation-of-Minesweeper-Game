@@ -1,4 +1,4 @@
-![image](https://github.com/yamini-31/Implementation-of-Minesweeper-Game/assets/104098671/068731ea-59dc-4261-9909-d8b0e939c095)# Minesweeper Game in C++
+# Minesweeper Game in C++
 
 Welcome to Minesweeper, a classic puzzle game implemented in C++. This game is designed with different difficulty levels to challenge players of all ages. Whether you are a child, teenager, or adult, you can enjoy uncovering the hidden mines while avoiding explosions.
 
