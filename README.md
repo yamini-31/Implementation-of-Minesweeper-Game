@@ -7,7 +7,7 @@ Welcome to Minesweeper, a classic puzzle game implemented in C++. This game is d
 - Overview
 - How to Play
 - Difficulty Levels
-- [Screenshots]
+- Screenshots
 - Running the Project Online or playing the game online
 - Contributing
 
@@ -42,7 +42,7 @@ Adult: 24x24 grid with 99 mines.
 If you prefer not to run the project locally or don't have a C++ compiler installed, you can easily run it online using an online C++ compiler like [GDB Online](https://www.onlinegdb.com/). Here's how:
 
 1. Visit [GDB Online](https://www.onlinegdb.com/).
-2. Copy the entire C++ code from this repository's [project 1] file.
+2. Copy the entire C++ code from this repository's ##project 1## file.
 3. Paste the copied code into the online compiler's code editor.
 4. Click the "Run" or "Compile & Execute" button to compile and run the project.
 5. You'll see the output of the Minesweeper game displayed in the online compiler's console.
